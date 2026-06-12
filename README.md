@@ -78,7 +78,6 @@
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Archit-prasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" width="100%"/>
 
 </div>
 
