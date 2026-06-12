@@ -83,7 +83,7 @@
 
 <br/>
 
-> To activate this animation, add the **Platane/snk** GitHub Action to your repository workflow — it generates the snake SVG automatically from your contribution graph.
+
 
 <br/>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-*"Hope you haven't lost your way here!!"*
+<p style="font-size: 15px; font-family: Times New Roman;">Hope You Haven't Lost Your Way Here !!</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
