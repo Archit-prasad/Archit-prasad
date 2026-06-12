@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Archit-prasad/Archit-prasad/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Archit-prasad/Dummy-repos/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
